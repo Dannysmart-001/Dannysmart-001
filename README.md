@@ -12,7 +12,7 @@ strengthening my Python skills and exploring cloud fundamentals.
 
 ## 🔧 What I'm Working With
 - **Languages:** Python
-- **Interests:** Data Analysis · Machine Learning · Cloud Computing
+- **Interests:** Data Analysis/ Data Science · Machine Learning · Cloud Computing
 - **Currently Learning:** Data Science workflows · Cloud infrastructure basics
 
 ---
